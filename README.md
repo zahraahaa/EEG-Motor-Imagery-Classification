@@ -12,8 +12,9 @@ why is it hard. Write this in your own words from what you already know
 as a neuroscience student — don't research it heavily yet.)*
 
 ## Planned Approach
-*(Bullet list: baseline EEGNet → Transformer → cross-subject evaluation.
-This is your hypothesis going in; you'll revise it later.)*
+1.   **Week 1: Project setup & Foundation** 
+This week is focused on understanding the purpose of the project, setting up the development environment, and building the foundational knowledge required for EEG motor imagery classification using deep learning. Since this is my first end-to-end AI project on GitHub, the goal is also to become comfortable with version control, project organization, and documenting progress.
+
 
 ## Setup
 *(Exact commands for cloning, creating venv, installing requirements.
